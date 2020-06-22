@@ -1,0 +1,17 @@
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.csprojAssemblyReference.cache
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\MainWindow.g.cs
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\App.g.cs
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2_MarkupCompile.cache
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2_MarkupCompile.lref
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\bin\Debug\PT_lab2.exe.config
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\bin\Debug\PT_lab2.exe
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\bin\Debug\PT_lab2.pdb
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\MainWindow.baml
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.g.resources
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.Properties.Resources.resources
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.csproj.GenerateResource.cache
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.csproj.CoreCompileInputs.cache
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.exe
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\PT_lab2.pdb
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\CreateOptionsDialog.g.cs
+C:\Users\akeisel\source\repos\PT_lab2\PT_lab2\obj\Debug\CreateOptionsDialog.baml
